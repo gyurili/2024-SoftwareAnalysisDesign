@@ -1,0 +1,19 @@
+<document>
+<title>Greeting~</title>
+<string>general greeting</string>
+
+<items>
+    <item>How are you?</item>
+    <item>Hello.</item>
+    <item>Hi.</item>
+</items>
+
+<string>Timely greeting</string>
+
+<items>
+    <item>Good morning.</item>
+    <item>Good afternoon.</item>
+    <item>Good evening.</item>
+</items>
+
+</document>

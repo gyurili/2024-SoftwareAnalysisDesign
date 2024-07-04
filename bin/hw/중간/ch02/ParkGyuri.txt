@@ -1,0 +1,8 @@
+#written by FileProperties (\uC0C1\uC18D)
+#Mon Mar 25 00:50:38 KST 2024
+bornYear=2003
+Year=2024
+width=640
+StudentId=20220526
+Name=ParkGyuri
+Location=Seoul
