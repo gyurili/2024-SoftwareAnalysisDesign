@@ -1,27 +1,41 @@
-# 교과목 개요
-</br> 
-소프트웨어 개발시 가장 중요한 과정 중 하나가 요구 사항을 분석하고 프로그램의 기본 구조를 설계하는 작업이다. 본 강의에서는 소프트웨어 개발시 자주 발생하는 여러 가지 설계 문제에 대한 해결책을 제공하는 '디자인패턴'을 자바 언어를 중심으로 학습한다. 또한 다양한 실습 과제를 통해서 실제 프로그래밍 과정에 디자인 패턴을 적용하는 방법을 익힌다. 
-</br></br></br>
+# 🧩 소프트웨어 분석 설계
 
+> 덕성여자대학교 3학년 1학기 전공 수업 <br>
+> 소프트웨어 개발 과정에서의 핵심인 **요구사항 분석**과 **기본 구조 설계**를 중심으로 학습한 과제 및 실습 코드 기록 입니다.
 
-# 학습 내용
-</br>
+<br>
 
+## 📚 교과목 개요
 
-| JAVA 패턴명 | 
-| --- |
-| Iterator |
-| Adapter |
-| TemplateMethod |
-| FactoryMethod |
-| Singleton |
-| Strategy |
-| Composite |
-| Mediator |
-| Observer |
-| State |
-| Flyweight |
-| Command |
-| Decorator |
-| Chain Of Responsibility|
-| Facade |
+소프트웨어 개발 시 가장 중요한 단계 중 하나는 요구 사항을 정확하게 분석하고, 구조적이고 유지보수 가능한 설계를 만드는 것입니다.
+이 과목에서는 실무에서 자주 사용되는 다양한 **디자인 패턴(Design Pattern)을 학습**하고,   **자바(Java) 언어를 중심**으로 패턴을 적용한 설계 및 구현 실습을 수행합니다.
+
+<br>
+
+## 🧠 학습 목표
+
+- 객체지향적 사고 기반의 소프트웨어 설계 역량 향상
+- 자주 발생하는 설계 문제에 대한 **패턴 기반 해결법 습득**
+- **코드 재사용성**, **유지보수성**, **확장성**을 고려한 구조 설계 경험
+
+<br>
+
+## 🛠 학습한 디자인 패턴 목록
+
+| Design Pattern |
+|----------------|
+| Iterator       |
+| Adapter        |
+| Template Method|
+| Factory Method |
+| Singleton      |
+| Strategy       |
+| Composite      |
+| Mediator       |
+| Observer       |
+| State          |
+| Flyweight      |
+| Command        |
+| Decorator      |
+| Chain of Responsibility |
+| Facade         |
